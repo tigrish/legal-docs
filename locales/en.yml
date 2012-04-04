@@ -1,0 +1,423 @@
+en:
+  vendor:
+    legal_docs:
+      docs:
+        privacy_policy:
+          body:
+            markdown: ! "# %{service_name} Privacy Policy\n\nYour privacy is critically
+              important to us. At %{company_short_name} we have a few fundamental
+              principles:\n\n1. We don't ask you for personal information unless we
+              truly need it. (We can't stand services that ask you for things like
+              your gender or income level for no apparent reason.)\n2. We don't share
+              your personal information with anyone except to comply with the law,
+              develop our products, or protect our rights.\n3. We don't store personal
+              information on our servers unless required for the on-going operation
+              of one of our services.\n4. We aim to make it as simple as possible
+              for you to control what's visible to the public, seen by search engines,
+              kept private, and permanently deleted.\n\nBelow is our privacy policy
+              which incorporates these goals:\n\nIf you have questions about deleting
+              or correcting your personal data please email us <%{support_email_address}>\n\n%{company_name}(\"**%{company_short_name}**\")
+              operates several websites including [%{website_name_1}](%{website_link_url_1}),
+              [%{website_name_2}](%{website_link_url_2}) and [%{website_name_2}](%{website_link_url_3}).\n\nIt
+              is %{company_short_name}’s policy to respect your privacy regarding
+              any information we may collect while operating our websites.\n\n## Website
+              Visitors\nLike most website operators, %{company_short_name} collects
+              non-personally-identifying information of the sort that web browsers
+              and servers typically make available, such as the browser type, language
+              preference, referring site, and the date and time of each visitor request.\n\n%{company_short_name}'s
+              purpose in collecting non-personally identifying information is to better
+              understand how %{company_short_name}'s visitors use its website.\n\nFrom
+              time to time, %{company_short_name} may release non-personally-identifying
+              information in the aggregate, e.g., by publishing a report on trends
+              in the usage of its website.\n\n%{company_short_name} also collects
+              potentially personally-identifying information like Internet Protocol
+              (IP) addresses for logged in users and for users leaving comments or
+              contributing to projects.\n\n%{company_short_name} only discloses logged
+              in user and commenter IP addresses under the same circumstances that
+              it uses and discloses personally-identifying information as described
+              below, except that contributor IP addresses are visible and disclosed
+              to the relevant project owner.\n\n## Gathering of Personally-Identifying
+              Information\n\nCertain visitors to %{company_short_name}’s websites
+              choose to interact with %{company_short_name} in ways that require %{company_short_name}
+              to gather personally-identifying information.\n\nThe amount and type
+              of information that %{company_short_name} gathers depends on the nature
+              of the interaction. For example, we ask visitors who sign up for an
+              account at [%{service_name}](%{service_link_url}) to provide a username
+              and email address.\n\nThose who engage in transactions with %{company_short_name}
+              – by purchasing access to paid services, for example – are asked to
+              provide additional information, including as necessary the personal
+              and financial information required to process those transactions.\n\nIn
+              each case, %{company_short_name} collects such information only insofar
+              as is necessary or appropriate to fulfil the purpose of the visitor’s
+              interaction with %{company_short_name}.\n\n%{company_short_name} does
+              not disclose personally-identifying information other than as described
+              below. And visitors can always refuse to supply personally-identifying
+              information, with the caveat that it may prevent them from engaging
+              in certain website-related activities.\n\n## Aggregated Statistics\n\n%{company_short_name}
+              may collect statistics about the behaviour of visitors to its websites.
+              For instance, %{company_short_name} may monitor the most popular projects
+              on the [%{service_name}](%{service_link_url}).\n\n%{company_short_name}
+              may display this information publicly or provide it to others. However,
+              %{company_short_name} does not disclose personally-identifying information
+              other than as described below.\n\n## Protection of Certain Personally-Identifying
+              Information\n\n%{company_short_name} discloses potentially personally-identifying
+              and personally-identifying information only to those of its employees,
+              contractors and affiliated organisations that;\n\n* need to know that
+              information in order to process it on %{company_short_name}’s behalf
+              or to provide services available at %{company_short_name}’s websites,
+              and\n* that have agreed not to disclose it to others. \n\nSome of those
+              employees, contractors and affiliated organisations may be located outside
+              of your home country; by using %{company_short_name}’s websites, you
+              consent to the transfer of such information to them.\n\n%{company_short_name}
+              will not rent or sell potentially personally-identifying and personally-identifying
+              information to anyone.\n\nOther than to its employees, contractors and
+              affiliated organisations, as described above, %{company_short_name}
+              discloses potentially personally-identifying and personally-identifying
+              information only in response to a subpoena, court order or other governmental
+              request, or when %{company_short_name} believes in good faith that disclosure
+              is reasonably necessary to protect the property or rights of %{company_short_name},
+              third parties or the public at large.\n\nIf you are a registered user
+              of an %{service_name} account and have supplied your email address,
+              %{company_short_name} may occasionally send you an email to tell you
+              about new features, solicit your feedback, or just keep you up to date
+              with what’s going on with %{company_short_name} and our products.\n\nWe
+              primarily use our various product blogs to communicate this type of
+              information, so we expect to keep this type of email to a minimum.\n\nIf
+              you send us a request (for example via a support email or via one of
+              our feedback mechanisms), we reserve the right to publish it in order
+              to help us clarify or respond to your request or to help us support
+              other users.\n\n%{company_short_name} takes all measures reasonably
+              necessary to protect against the unauthorised access, use, alteration
+              or destruction of potentially personally-identifying and personally-identifying
+              information.\n\n## Cookies\n\nA cookie is a string of information that
+              a website stores on a visitor’s computer, and that the visitor’s browser
+              provides to the website each time the visitor returns.\n\n%{company_short_name}
+              uses cookies to help %{company_short_name} identify and track visitors,
+              their usage of %{company_short_name} website, and their website access
+              preferences.\n\n%{company_short_name} visitors who do not wish to have
+              cookies placed on their computers should set their browsers to refuse
+              cookies before using %{company_short_name}’s websites, with the drawback
+              that certain features of %{company_short_name}’s websites may not function
+              properly without the aid of cookies.\n\n## Business Transfers\n\nIf
+              %{company_short_name}, or substantially all of its assets, were acquired,
+              or in the unlikely event that %{company_short_name} goes out of business
+              or enters bankruptcy, user information would be one of the assets that
+              is transferred or acquired by a third party.\n\nYou acknowledge that
+              such transfers may occur, and that any acquirer of %{company_short_name}
+              may continue to use your personal information as set forth in this policy.\n\n##
+              Ads\n\nAds appearing on any of our websites may be delivered to users
+              by advertising partners, who may set cookies.\n\nThese cookies allow
+              the ad server to recognise your computer each time they send you an
+              online advertisement to compile information about you or others who
+              use your computer.\n\nThis information allows ad networks to, among
+              other things, deliver targeted advertisements that they believe will
+              be of most interest to you.\n\nThis Privacy Policy covers the use of
+              cookies by %{company_short_name} and does not cover the use of cookies
+              by any advertisers.\n\n## Privacy Policy Changes\n\nAlthough most changes
+              are likely to be minor, %{company_short_name} may change its Privacy
+              Policy from time to time, and in %{company_short_name}’s sole discretion.\n\n%{company_short_name}
+              encourages visitors to frequently check this page for any changes to
+              its Privacy Policy. If you have a %{service_name} account, you should
+              also check your project's dashboard for alerts to these changes.\n\nYour
+              continued use of this site after any change in this Privacy Policy will
+              constitute your acceptance of such change.\n\n*Thanks to [Wordpress](http://wordpress.com})
+              for releasing their Privacy Policy under a [Creative Commons Sharealike
+              Licence](http://creativecommons.org/licenses/by-sa/3.0/) which enabled
+              us to repurpose this text for our own use.*"
+        terms_of_service:
+          body:
+            markdown: ! "# %{service_name} Terms of Service\n\nWe (the team at [%{company_name}](%{company_url}))
+              run a [%{service_description}](%{service_url}) called %{service_name}
+              and we'd **love** you to use it.\n\n%{free_features} are free, and we
+              offer paid accounts for advanced features such %{paid_features}.\n\n##
+              Terms of Service\n\nThe following terms and conditions govern all use
+              of the %{service_name} website and all content, services and products
+              available at or through [the Website](%{service_url}).\n\nThe Website
+              is owned and operated by %{company_name}. (“%{company_short_name}”).
+              The Website is offered subject to your acceptance without modification
+              of all of the terms and conditions contained herein and all other operating
+              rules, policies (including, without limitation, [%{company_short_name}
+              Privacy Policy](%{privacy_policy_url})) and procedures that may be published
+              from time to time on the Website by %{company_short_name} (collectively,
+              the “Agreement”).\n\nPlease read this Agreement carefully before accessing
+              or using the Website. By accessing or using any part of the web site,
+              you agree to become bound by the terms and conditions of this agreement.\n\nIf
+              you do not agree to all the terms and conditions of this agreement,
+              then you may not access the Website or use any services. If these terms
+              and conditions are considered an offer by %{company_short_name}, acceptance
+              is expressly limited to these terms. The Website is available only to
+              individuals who are at least 13 years old.\n\n1. **Your %{service_name}
+              Account and Projects** \n    \n    If you create a project on the Website,
+              you are responsible for maintaining the security of your account and
+              projects, and you are fully responsible for all activities that occur
+              under the account and any other actions taken in connection with the
+              projects.\n\n    You must not describe your projects in a misleading
+              or unlawful manner, including in a manner intended to trade on the name
+              or reputation of others, and %{company_short_name} may change or remove
+              any project that it considers inappropriate or unlawful, or otherwise
+              likely to cause %{company_short_name} liability.\n    \n    You must
+              immediately notify %{company_short_name} of any unauthorised uses of
+              your project, your account or any other breaches of security. %{company_short_name}
+              will not be liable for any acts or omissions by You, including any damages
+              of any kind incurred as a result of such acts or omissions.\n\n1. **Responsibility
+              of Contributors**\n\n    If you manage a project, contribute to a project,
+              post material to the Website, or otherwise make (or allow any third
+              party to make) material available by means of the Website (any such
+              material, “Content”), You are entirely responsible for the content of,
+              and any harm resulting from, that Content.\n\n    By making Content
+              available, you represent and warrant that:\n    \n    * the downloading,
+              copying and use of the Content will not infringe the proprietary rights,
+              including but not limited to the copyright, patent, trademark or trade
+              secret rights, of any third party;\n\n    * if your employer has rights
+              to intellectual property you create, you have either (i) received permission
+              from your employer to post or make available the Content, including
+              but not limited to any software, or (ii) secured from your employer
+              a waiver as to all rights in or to the Content;\n\n    * you have fully
+              complied with any third-party licenses relating to the Content, and
+              have done all things necessary to successfully pass through to end users
+              any required terms;\n    \n    * the Content does not contain or install
+              any viruses, worms, malware, Trojan horses or other harmful or destructive
+              content;\n    \n    * the Content is not spam, is not machine or randomly-generated,
+              and does not contain unethical or unwanted commercial content designed
+              to drive traffic to third party sites or boost the search engine rankings
+              of third party sites, or to further unlawful acts (such as phishing)
+              or mislead recipients as to the source of the material (such as spoofing);\n
+              \   \n    * the Content is not pornographic, does not contain threats
+              or incite violence towards individuals or entities, and does not violate
+              the privacy or publicity rights of any third party;\n    \n    * your
+              project is not getting advertised via unwanted electronic messages such
+              as spam links on newsgroups, email lists, other blogs and web sites,
+              and similar unsolicited promotional methods;\n    \n    * your project
+              is not named in a manner that misleads your readers into thinking that
+              you are another person or company. For example, your project's URL or
+              name is not the name of a person other than yourself or company other
+              than your own; and\n    \n    * you have, in the case of Content that
+              includes computer code, accurately categorised and/or described the
+              type, nature, uses and effects of the materials, whether requested to
+              do so by %{company_short_name} or otherwise.\n    \n    By submitting
+              Content to %{company_short_name} for inclusion on your project, you
+              grant %{company_short_name} a world-wide, royalty-free, and non-exclusive
+              license to reproduce, modify, adapt and publish the Content solely for
+              the purpose of displaying, distributing and promoting your project.\n\n
+              \   If you delete Content, %{company_short_name} will use reasonable
+              efforts to remove it from the Website, but you acknowledge that caching
+              or references to the Content may not be made immediately unavailable.\n\n
+              \   Without limiting any of those representations or warranties, %{company_short_name}
+              has the right (though not the obligation) to, in %{company_short_name}’s
+              sole discretion\n        \n     - refuse or remove any content that,
+              in %{company_short_name}’s reasonable opinion, violates any %{company_short_name}
+              policy or is in any way harmful or objectionable, or\n     - terminate
+              or deny access to and use of the Website to any individual or entity
+              for any reason, in %{company_short_name}’s sole discretion. %{company_short_name}
+              will have no obligation to provide a refund of any amounts previously
+              paid.\n\n1. **Payment and Renewal**\n \n   * **General Terms**\n   \n
+              \    Optional paid services are available on the Website (any such services,
+              an \"Upgrade\").\n     \n     By selecting an Upgrade you agree to pay
+              %{company_short_name} the monthly or annual subscription fees indicated
+              for that service.\n     \n     Payments will be charged on a pre-pay
+              basis on the day you sign up for an Upgrade and will cover the use of
+              that service for a monthly or annual subscription period as indicated.
+              Upgrade fees are not refundable.\n\n   * **Automatic Renewal**\n   \n
+              \     Unless you notify %{company_short_name} before the end of the
+              applicable subscription period that you want to cancel an Upgrade, your
+              Upgrade subscription will automatically renew and you authorise us to
+              collect the then-applicable annual or monthly subscription fee for such
+              Upgrade (as well as any taxes) using any credit card or other payment
+              mechanism we have on record for you.\n      \n      Upgrades can be
+              canceled at any time by contacting %{company_short_name} by email <%{support_email_address}>.\n
+              \     \n1. **Responsibility of Website Visitors**\n   \n   %{company_short_name}
+              has not reviewed, and cannot review, all of the material posted to the
+              Website, and cannot therefore be responsible for that material’s content,
+              use or effects.\n\n   By operating the Website, %{company_short_name}
+              does not represent or imply that it endorses the material there posted,
+              or that it believes such material to be accurate, useful or non-harmful.\n
+              \  \n   You are responsible for taking precautions as necessary to protect
+              yourself and your computer systems from viruses, worms, Trojan horses,
+              and other harmful or destructive content.\n   \n   The Website may contain
+              content that is offensive, indecent, or otherwise objectionable, as
+              well as content containing technical inaccuracies, typographical mistakes,
+              and other errors.\n   \n   The Website may also contain material that
+              violates the privacy or publicity rights, or infringes the intellectual
+              property and other proprietary rights, of third parties, or the downloading,
+              copying or use of which is subject to additional terms and conditions,
+              stated or unstated.\n   \n   %{company_short_name} disclaims any responsibility
+              for any harm resulting from the use by visitors of the Website, or from
+              any downloading by those visitors of content there posted.\n   \n1.
+              **Content Posted on Other Websites**\n   \n   We have not reviewed,
+              and cannot review, all of the material made available through the websites
+              and webpages to which %{service_name} links, and that link to %{service_name}.\n
+              \  \n   %{company_short_name} does not have any control over those non-%{service_name}
+              websites and webpages, and is not responsible for their contents or
+              their use.\n   \n   By linking to a non-%{service-name} website or webpage,
+              %{company_short_name} does not represent or imply that it endorses such
+              website or webpage.\n   \n   You are responsible for taking precautions
+              as necessary to protect yourself and your computer systems from viruses,
+              worms, Trojan horses, and other harmful or destructive content. %{company_short_name}
+              disclaims any responsibility for any harm resulting from your use of
+              non-%{service-name} websites and webpages.\n  \n1. **Copyright Infringement
+              and DMCA Policy**\n\n    As %{company_short_name} asks others to respect
+              its intellectual property rights, it respects the intellectual property
+              rights of others.\n\n   If you believe that material located on or linked
+              to by %{service_name} violates your copyright, you are encouraged to
+              notify %{company_short_name} in accordance with [%{company_short_name}’s
+              Digital Millennium Copyright Act (\"DMCA\") Policy](%{dmca_link_url}).\n\n
+              \  %{company_short_name} will respond to all such notices, including
+              as required or appropriate by removing the infringing material or disabling
+              all links to the infringing material.\n   \n   %{company_short_name}
+              will terminate a visitor's access to and use of the Website if, under
+              appropriate circumstances, the visitor is determined to be a repeat
+              infringer of the copyrights or other intellectual property rights of
+              %{company_short_name} or others.\n   \n   In the case of such termination,
+              %{company_short_name} will have no obligation to provide a refund of
+              any amounts previously paid to %{company_short_name}.\n   \n1. **Licensing
+              of Open Source Projects**\n\n    Open Source Projects are hosted for
+              free on %{service_name}.  All localisations associated with Open Source
+              projects on %{service_name} are automatically licensed under the **%{open_source_licence_organisation},
+              %{open_source_licence_long name}** - \n    [%{open_source_licence_short_name}](%{open_source_licence_link_url})\n\n
+              \   [![%{open_source_licence_short_name}](%{open_source_licence_image_url}
+              \"%{open_source_licence_short_name}\")](%{open_source_licence_link_url}
+              \"%{open_source_licence_short_name}\")\n\n    This means that such localisations
+              can be freely copied, distributed and transmitted.  Localisations can
+              be freely adapted, and commercial use of them is permitted;\nunder the
+              following conditions;\n\n    * Any derivative use of such localisations
+              must attribute derivative works to the project owner in the manner specified
+              by the project owner (but not in any way that suggests that they endorse
+              the derivative work in any way).\n    * Any derivative use must be distributed
+              under the same or similar license to this one.\n\n1. **Licensing of
+              Private Projects**\n\n   All private projects hosted on %{service_name}
+              are, by definition, private.  All localisations associated with such
+              projects are only accessible to users authorised by the project owner
+              or his representatives.\n   \n   The project owner is responsible for
+              licensing and distributing all localisations associated with private
+              projects.\n \n \n1. **Intellectual Property**\n\n    This Agreement
+              does not transfer from %{company_short_name} to you any %{company_short_name}
+              or third party intellectual property, and all right, title and interest
+              in and to such property will remain (as between the parties) solely
+              with %{company_short_name}.\n    \n    %{company_short_name}, %{service_name},
+              the %{service_name} logo, and all other trademarks, service marks, graphics
+              and logos used in connection with %{service_name}, or the Website are
+              trademarks or registered trademarks of %{company_short_name} or %{company_short_name}’s
+              licensors.\n    \n    Other trademarks, service marks, graphics and
+              logos used in connection with the Website may be the trademarks of other
+              third parties.\n    \n    Your use of the Website grants you no right
+              or license to reproduce or otherwise use any %{company_short_name} or
+              third-party trademarks.\n    \n1. **Changes**\n\n    %{company_short_name}
+              reserves the right, at its sole discretion, to modify or replace any
+              part of this Agreement.\n    \n    It is your responsibility to check
+              this Agreement periodically for changes.\n    \n    Your continued use
+              of or access to the Website following the posting of any changes to
+              this Agreement constitutes acceptance of those changes.\n    \n    %{company_short_name}
+              may also, in the future, offer new services and/or features through
+              the Website (including, the release of new tools and resources).\n    \n
+              \   Such new features and/or services shall be subject to the terms
+              and conditions of this Agreement.\n    \n1. **Termination**\n\n    %{company_short_name}
+              may terminate your access to all or any part of the Website at any time,
+              with or without cause, with or without notice, effective immediately.\n
+              \   \n    If you wish to terminate this Agreement or your %{service_name}
+              account (if you have one), you may simply discontinue using the Website.\n
+              \   \n    Notwithstanding the foregoing, if you have paid for an Upgrade,
+              your account can only be terminated by %{company_short_name} if you
+              materially breach this Agreement and fail to cure such breach within
+              thirty (30) days from %{company_short_name}’s notice to you thereof;
+              provided that, %{company_short_name} can terminate the Website immediately
+              as part of a general shut down of our service.\n    \n    All provisions
+              of this Agreement which by their nature should survive termination shall
+              survive termination, including, without limitation, ownership provisions,
+              warranty disclaimers, indemnity and limitations of liability.\n    \n1.
+              **Disclaimer of Warranties**\n\n    The Website is provided \"as is\".
+              %{company_short_name} and its suppliers and licensors hereby disclaim
+              all warranties of any kind, express or implied, including, without limitation,
+              the warranties of merchantability, fitness for a particular purpose
+              and non-infringement.\n    \n    Neither %{company_short_name} nor its
+              suppliers and licensors, makes any warranty that the Website will be
+              error free or that access thereto will be continuous or uninterrupted.\n
+              \   \n    You understand that you download from, or otherwise obtain
+              content or services through, the Website at your own discretion and
+              risk.\n    \n1. **Limitation of Liability**\n\n    In no event will
+              %{company_short_name}, or its suppliers or licensors, be liable with
+              respect to any subject matter of this agreement under any contract,
+              negligence, strict liability or other legal or equitable theory for:\n
+              \     - any special, incidental or consequential damages;\n      - the
+              cost of procurement for substitute products or services;\n      - for
+              interruption of use or loss or corruption of data; or\n      - for any
+              amounts that exceed the fees paid by you to %{company_short_name} under
+              this agreement during the twelve (12) month period prior to the cause
+              of action. \n      \n   %{company_short_name} shall have no liability
+              for any failure or delay due to matters beyond their reasonable control.
+              The foregoing shall not apply to the extent prohibited by applicable
+              law.\n   \n1. **General Representation and Warranty**\n\n   You represent
+              and warrant that\n      * your use of the Website will be in strict
+              accordance with the %{company_short_name} Privacy Policy, with this
+              Agreement and with all applicable laws and regulations (including without
+              limitation any local laws or regulations in your country, state, city,
+              or other governmental area, regarding online conduct and acceptable
+              content, and including all applicable laws regarding the transmission
+              of technical data exported from country in which you reside) and \n
+              \    * your use of the Website will not infringe or misappropriate the
+              intellectual property rights of any third party.\n     \n1. **Indemnification**\n\n
+              \  You agree to indemnify and hold harmless %{company_short_name}, its
+              contractors, and its licensors, and their respective directors, officers,
+              employees and agents from and against any and all claims and expenses,
+              including attorneys’ fees, arising out of your use of the Website, including
+              but not limited to your violation of this Agreement.\n   \n1. **Miscellaneous**\n\n
+              \  This Agreement constitutes the entire agreement between %{company_short_name}
+              and you concerning the subject matter hereof, and they may only be modified
+              by a written amendment signed by an authorised executive of %{company_short_name},
+              or by the posting by %{company_short_name} of a revised version.\n   \n
+              \  Except to the extent applicable law, if any, provides otherwise,
+              this Agreement, any access to or use of the Website will be governed
+              by the laws of %{governing_law_country}, excluding its conflict of law
+              provisions, and the proper venue for any disputes arising out of or
+              relating to any of the same will be %{governing_law_venue} located in
+              %{governing_law_location}.\n   \n   Except for claims for injunctive
+              or equitable relief or claims regarding intellectual property rights
+              (which may be brought in any competent court without the posting of
+              a bond), any dispute arising under this Agreement shall be finally settled
+              in accordance with the Comprehensive Arbitration Rules of the Judicial
+              Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators
+              appointed in accordance with such Rules.\n   \n   The arbitration shall
+              take place in %{arbitration_location}, in the %{arbitration_language}
+              language and the arbitral decision may be enforced in any court.\n   \n
+              \  The prevailing party in any action or proceeding to enforce this
+              Agreement shall be entitled to costs and legal fees.\n   \n   If any
+              part of this Agreement is held invalid or unenforceable, that part will
+              be construed to reflect the parties’ original intent, and the remaining
+              portions will remain in full force and effect.\n   \n   A waiver by
+              either party of any term or condition of this Agreement or any breach
+              thereof, in any one instance, will not waive such term or condition
+              or any subsequent breach thereof.\n   \n   You may assign your rights
+              under this Agreement to any party that consents to, and agrees to be
+              bound by, its terms and conditions; %{company_short_name} may assign
+              its rights under this Agreement without condition.\n   \n   This Agreement
+              will be binding upon and will inure to the benefit of the parties, their
+              successors and permitted assigns.\n\n*Thanks to [Wordpress](http://wordpress.com})
+              for releasing their Terms of Service under a [Creative Commons Sharealike
+              Licence](http://creativecommons.org/licenses/by-sa/3.0/) which enabled
+              us to repurpose this text for our own use.*"
+      interpolations:
+        arbitration:
+          language: <Arbitration Language>
+          location: <Arbitration Location>
+        company:
+          name: <Company Name>
+          short_name: <Company Short Name>
+          url: <Company URL>
+        governing_law:
+          country: <Governing Law Country>
+          location: <Governing Law Location>
+          venue: <Governing Law Venue>
+        open_source_licence:
+          image_url: <Open Source Licence Image URL>
+          link_url: <Open Source Licence Link URL>
+          long_name: <Open Source Licence Long Name>
+          organisation: <Open Source Licence Organisation>
+          short_name: <Open Source Licence Short Name>
+        service:
+          description: <Service Description>
+          dmca_link_url: <Service DMCA Link URL>
+          free_features: <Service Free Features>
+          name: <Service Name>
+          paid_features: <Service Paid Features>
+          privacy_policy_url: <Service Privacy Policy URL>
+          support_email_address: <Service Support Email Address>
+          url: <Service URL>
