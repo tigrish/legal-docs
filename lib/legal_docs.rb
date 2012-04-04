@@ -18,7 +18,7 @@ module LegalDocs
       I18n.t i18n_scope("docs.#{@doc}.title")
     end
 
-    def content
+    def text
       I18n.t i18n_scope("docs.#{@doc}.body.markdown"), interpolations
     end
 
