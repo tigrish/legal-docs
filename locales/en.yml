@@ -16,9 +16,7 @@ en:
               for you to control what's visible to the public, seen by search engines,
               kept private, and permanently deleted.\n\nBelow is our privacy policy
               which incorporates these goals:\n\nIf you have questions about deleting
-              or correcting your personal data please email us <%{support_email_address}>\n\n%{company_name}(\"**%{company_short_name}**\")
-              operates several websites including [%{website_name_1}](%{website_link_url_1}),
-              [%{website_name_2}](%{website_link_url_2}) and [%{website_name_2}](%{website_link_url_3}).\n\nIt
+              or correcting your personal data please email us <%{service_support_email}>\n\nIt
               is %{company_short_name}’s policy to respect your privacy regarding
               any information we may collect while operating our websites.\n\n## Website
               Visitors\nLike most website operators, %{company_short_name} collects
@@ -42,8 +40,8 @@ en:
               to gather personally-identifying information.\n\nThe amount and type
               of information that %{company_short_name} gathers depends on the nature
               of the interaction. For example, we ask visitors who sign up for an
-              account at [%{service_name}](%{service_link_url}) to provide a username
-              and email address.\n\nThose who engage in transactions with %{company_short_name}
+              account at [%{service_name}](%{service_url}) to provide a username and
+              email address.\n\nThose who engage in transactions with %{company_short_name}
               – by purchasing access to paid services, for example – are asked to
               provide additional information, including as necessary the personal
               and financial information required to process those transactions.\n\nIn
@@ -56,8 +54,8 @@ en:
               in certain website-related activities.\n\n## Aggregated Statistics\n\n%{company_short_name}
               may collect statistics about the behaviour of visitors to its websites.
               For instance, %{company_short_name} may monitor the most popular projects
-              on the [%{service_name}](%{service_link_url}).\n\n%{company_short_name}
-              may display this information publicly or provide it to others. However,
+              on the [%{service_name}](%{service_url}).\n\n%{company_short_name} may
+              display this information publicly or provide it to others. However,
               %{company_short_name} does not disclose personally-identifying information
               other than as described below.\n\n## Protection of Certain Personally-Identifying
               Information\n\n%{company_short_name} discloses potentially personally-identifying
@@ -124,12 +122,13 @@ en:
               for releasing their Privacy Policy under a [Creative Commons Sharealike
               Licence](http://creativecommons.org/licenses/by-sa/3.0/) which enabled
               us to repurpose this text for our own use.*"
+          title: Privacy Policy
         terms_of_service:
           body:
             markdown: ! "# %{service_name} Terms of Service\n\nWe (the team at [%{company_name}](%{company_url}))
               run a [%{service_description}](%{service_url}) called %{service_name}
-              and we'd **love** you to use it.\n\n%{free_features} are free, and we
-              offer paid accounts for advanced features such %{paid_features}.\n\n##
+              and we'd **love** you to use it.\n\n%{service_free_features} are free,
+              and we offer paid accounts for advanced features such %{service_paid_features}.\n\n##
               Terms of Service\n\nThe following terms and conditions govern all use
               of the %{service_name} website and all content, services and products
               available at or through [the Website](%{service_url}).\n\nThe Website
@@ -137,16 +136,16 @@ en:
               The Website is offered subject to your acceptance without modification
               of all of the terms and conditions contained herein and all other operating
               rules, policies (including, without limitation, [%{company_short_name}
-              Privacy Policy](%{privacy_policy_url})) and procedures that may be published
-              from time to time on the Website by %{company_short_name} (collectively,
-              the “Agreement”).\n\nPlease read this Agreement carefully before accessing
-              or using the Website. By accessing or using any part of the web site,
-              you agree to become bound by the terms and conditions of this agreement.\n\nIf
-              you do not agree to all the terms and conditions of this agreement,
-              then you may not access the Website or use any services. If these terms
-              and conditions are considered an offer by %{company_short_name}, acceptance
-              is expressly limited to these terms. The Website is available only to
-              individuals who are at least 13 years old.\n\n1. **Your %{service_name}
+              Privacy Policy](%{service_privacy_policy_url})) and procedures that
+              may be published from time to time on the Website by %{company_short_name}
+              (collectively, the “Agreement”).\n\nPlease read this Agreement carefully
+              before accessing or using the Website. By accessing or using any part
+              of the web site, you agree to become bound by the terms and conditions
+              of this agreement.\n\nIf you do not agree to all the terms and conditions
+              of this agreement, then you may not access the Website or use any services.
+              If these terms and conditions are considered an offer by %{company_short_name},
+              acceptance is expressly limited to these terms. The Website is available
+              only to individuals who are at least 13 years old.\n\n1. **Your %{service_name}
               Account and Projects** \n    \n    If you create a project on the Website,
               you are responsible for maintaining the security of your account and
               projects, and you are fully responsible for all activities that occur
@@ -224,7 +223,7 @@ en:
               collect the then-applicable annual or monthly subscription fee for such
               Upgrade (as well as any taxes) using any credit card or other payment
               mechanism we have on record for you.\n      \n      Upgrades can be
-              canceled at any time by contacting %{company_short_name} by email <%{support_email_address}>.\n
+              canceled at any time by contacting %{company_short_name} by email <%{service_support_email}>.\n
               \     \n1. **Responsibility of Website Visitors**\n   \n   %{company_short_name}
               has not reviewed, and cannot review, all of the material posted to the
               Website, and cannot therefore be responsible for that material’s content,
@@ -260,7 +259,7 @@ en:
               rights of others.\n\n   If you believe that material located on or linked
               to by %{service_name} violates your copyright, you are encouraged to
               notify %{company_short_name} in accordance with [%{company_short_name}’s
-              Digital Millennium Copyright Act (\"DMCA\") Policy](%{dmca_link_url}).\n\n
+              Digital Millennium Copyright Act (\"DMCA\") Policy](%{service_dmca_url}).\n\n
               \  %{company_short_name} will respond to all such notices, including
               as required or appropriate by removing the infringing material or disabling
               all links to the infringing material.\n   \n   %{company_short_name}
@@ -273,40 +272,40 @@ en:
               of Open Source Projects**\n\n    Open Source Projects are hosted for
               free on %{service_name}.  All localisations associated with Open Source
               projects on %{service_name} are automatically licensed under the **%{open_source_licence_organisation},
-              %{open_source_licence_long name}** - \n    [%{open_source_licence_short_name}](%{open_source_licence_link_url})\n\n
+              %{open_source_licence_long_name}** - \n    [%{open_source_licence_short_name}](%{open_source_licence_url})\n\n
               \   [![%{open_source_licence_short_name}](%{open_source_licence_image_url}
-              \"%{open_source_licence_short_name}\")](%{open_source_licence_link_url}
-              \"%{open_source_licence_short_name}\")\n\n    This means that such localisations
-              can be freely copied, distributed and transmitted.  Localisations can
-              be freely adapted, and commercial use of them is permitted;\nunder the
-              following conditions;\n\n    * Any derivative use of such localisations
-              must attribute derivative works to the project owner in the manner specified
-              by the project owner (but not in any way that suggests that they endorse
-              the derivative work in any way).\n    * Any derivative use must be distributed
-              under the same or similar license to this one.\n\n1. **Licensing of
-              Private Projects**\n\n   All private projects hosted on %{service_name}
-              are, by definition, private.  All localisations associated with such
-              projects are only accessible to users authorised by the project owner
-              or his representatives.\n   \n   The project owner is responsible for
-              licensing and distributing all localisations associated with private
-              projects.\n \n \n1. **Intellectual Property**\n\n    This Agreement
-              does not transfer from %{company_short_name} to you any %{company_short_name}
-              or third party intellectual property, and all right, title and interest
-              in and to such property will remain (as between the parties) solely
-              with %{company_short_name}.\n    \n    %{company_short_name}, %{service_name},
-              the %{service_name} logo, and all other trademarks, service marks, graphics
-              and logos used in connection with %{service_name}, or the Website are
-              trademarks or registered trademarks of %{company_short_name} or %{company_short_name}’s
-              licensors.\n    \n    Other trademarks, service marks, graphics and
-              logos used in connection with the Website may be the trademarks of other
-              third parties.\n    \n    Your use of the Website grants you no right
-              or license to reproduce or otherwise use any %{company_short_name} or
-              third-party trademarks.\n    \n1. **Changes**\n\n    %{company_short_name}
-              reserves the right, at its sole discretion, to modify or replace any
-              part of this Agreement.\n    \n    It is your responsibility to check
-              this Agreement periodically for changes.\n    \n    Your continued use
-              of or access to the Website following the posting of any changes to
-              this Agreement constitutes acceptance of those changes.\n    \n    %{company_short_name}
+              \"%{open_source_licence_short_name}\")](%{open_source_licence_url} \"%{open_source_licence_short_name}\")\n\n
+              \   This means that such localisations can be freely copied, distributed
+              and transmitted.  Localisations can be freely adapted, and commercial
+              use of them is permitted;\nunder the following conditions;\n\n    *
+              Any derivative use of such localisations must attribute derivative works
+              to the project owner in the manner specified by the project owner (but
+              not in any way that suggests that they endorse the derivative work in
+              any way).\n    * Any derivative use must be distributed under the same
+              or similar license to this one.\n\n1. **Licensing of Private Projects**\n\n
+              \  All private projects hosted on %{service_name} are, by definition,
+              private.  All localisations associated with such projects are only accessible
+              to users authorised by the project owner or his representatives.\n   \n
+              \  The project owner is responsible for licensing and distributing all
+              localisations associated with private projects.\n \n \n1. **Intellectual
+              Property**\n\n    This Agreement does not transfer from %{company_short_name}
+              to you any %{company_short_name} or third party intellectual property,
+              and all right, title and interest in and to such property will remain
+              (as between the parties) solely with %{company_short_name}.\n    \n
+              \   %{company_short_name}, %{service_name}, the %{service_name} logo,
+              and all other trademarks, service marks, graphics and logos used in
+              connection with %{service_name}, or the Website are trademarks or registered
+              trademarks of %{company_short_name} or %{company_short_name}’s licensors.\n
+              \   \n    Other trademarks, service marks, graphics and logos used in
+              connection with the Website may be the trademarks of other third parties.\n
+              \   \n    Your use of the Website grants you no right or license to
+              reproduce or otherwise use any %{company_short_name} or third-party
+              trademarks.\n    \n1. **Changes**\n\n    %{company_short_name} reserves
+              the right, at its sole discretion, to modify or replace any part of
+              this Agreement.\n    \n    It is your responsibility to check this Agreement
+              periodically for changes.\n    \n    Your continued use of or access
+              to the Website following the posting of any changes to this Agreement
+              constitutes acceptance of those changes.\n    \n    %{company_short_name}
               may also, in the future, offer new services and/or features through
               the Website (including, the release of new tools and resources).\n    \n
               \   Such new features and/or services shall be subject to the terms
@@ -394,6 +393,7 @@ en:
               for releasing their Terms of Service under a [Creative Commons Sharealike
               Licence](http://creativecommons.org/licenses/by-sa/3.0/) which enabled
               us to repurpose this text for our own use.*"
+          title: Terms of Service
       interpolations:
         arbitration:
           language: <Arbitration Language>
@@ -412,6 +412,7 @@ en:
           long_name: Attribution-ShareAlike 3.0
           organisation: Creative Commons
           short_name: CC BY-SA
+          url: http://creativecommons.org/licenses/by-sa/3.0/
         service:
           description: <Service Description>
           dmca_link_url: <Service DMCA Link URL>
@@ -421,3 +422,5 @@ en:
           privacy_policy_url: <Service Privacy Policy URL>
           support_email_address: <Service Support Email Address>
           url: <Service URL>
+          dmca_url: <Service DMCA URL>
+          support_email: <Service Support Email>
