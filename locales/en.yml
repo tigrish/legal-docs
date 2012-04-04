@@ -407,11 +407,11 @@ en:
           location: <Governing Law Location>
           venue: <Governing Law Venue>
         open_source_licence:
-          image_url: <Open Source Licence Image URL>
-          link_url: <Open Source Licence Link URL>
-          long_name: <Open Source Licence Long Name>
-          organisation: <Open Source Licence Organisation>
-          short_name: <Open Source Licence Short Name>
+          image_url: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+          link_url: http://creativecommons.org/licenses/by-sa/3.0/
+          long_name: Attribution-ShareAlike 3.0
+          organisation: Creative Commons
+          short_name: CC BY-SA
         service:
           description: <Service Description>
           dmca_link_url: <Service DMCA Link URL>
