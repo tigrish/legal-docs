@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{legal-docs}
-  s.version = "0.0.2"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Christopher Dell}]
@@ -14,17 +14,18 @@ Gem::Specification.new do |s|
   s.email = %q{chris@tigrish.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
-    "README"
+    "README.md"
   ]
   s.files = [
     ".rvmrc",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
-    "README",
+    "README.md",
     "Rakefile",
     "VERSION",
     "config/i18n.rb",
+    "legal-docs.gemspec",
     "lib/legal_docs.rb",
     "locales/en.yml",
     "spec/legal_docs_spec.rb",
