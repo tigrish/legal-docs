@@ -1,3 +1,4 @@
+require 'redcarpet'
 require File.dirname(__FILE__) + '../../config/i18n'
 
 module LegalDocs
@@ -20,6 +21,10 @@ module LegalDocs
 
     def text
       I18n.t i18n_scope("docs.#{@doc}.body.markdown"), interpolations
+    end
+
+    def html
+      Redcarpet::Markdown.new(Redcarpet::Render::HTML).render(text)
     end
 
   protected

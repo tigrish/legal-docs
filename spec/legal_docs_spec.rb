@@ -15,6 +15,10 @@ describe LegalDocs, "::privacy_policy" do
     LegalDocs::privacy_policy.text.should match /Privacy Policy/
   end
 
+  it "has html text" do
+    LegalDocs::privacy_policy.html.should match %r(<p>)
+  end
+
   it "provides all necessary interpolations for the content" do
     expect { LegalDocs::privacy_policy.text }.to_not raise_error(I18n::MissingInterpolationArgument)
   end
@@ -27,6 +31,10 @@ describe LegalDocs, "::terms_of_service" do
 
   it "has text" do
     LegalDocs::terms_of_service.text.should match /Terms of Service/
+  end
+
+  it "has html text" do
+    LegalDocs::terms_of_service.html.should match %r(<p>)
   end
 
   it "provides all necessary interpolations for the content" do

@@ -1,5 +1,7 @@
 source :rubygems
 
+gem 'redcarpet'
+
 group :development do
   gem "bundler", "~> 1.1.2"
   gem "rspec", "~> 2.8.0"
