@@ -4,19 +4,18 @@ en:
       docs:
         privacy_policy:
           body:
-            markdown: ! "# %{service_name} Privacy Policy\n\nYour privacy is critically
-              important to us. At %{company_short_name} we have a few fundamental
-              principles:\n\n1. We don't ask you for personal information unless we
-              truly need it. (We can't stand services that ask you for things like
-              your gender or income level for no apparent reason.)\n2. We don't share
-              your personal information with anyone except to comply with the law,
-              develop our products, or protect our rights.\n3. We don't store personal
-              information on our servers unless required for the on-going operation
-              of one of our services.\n4. We aim to make it as simple as possible
-              for you to control what's visible to the public, seen by search engines,
-              kept private, and permanently deleted.\n\nBelow is our privacy policy
-              which incorporates these goals:\n\nIf you have questions about deleting
-              or correcting your personal data please email us <%{service_support_email}>\n\nIt
+            markdown: ! "Your privacy is critically important to us. At %{company_short_name}
+              we have a few fundamental principles:\n\n1. We don't ask you for personal
+              information unless we truly need it. (We can't stand services that ask
+              you for things like your gender or income level for no apparent reason.)\n2.
+              We don't share your personal information with anyone except to comply
+              with the law, develop our products, or protect our rights.\n3. We don't
+              store personal information on our servers unless required for the on-going
+              operation of one of our services.\n4. We aim to make it as simple as
+              possible for you to control what's visible to the public, seen by search
+              engines, kept private, and permanently deleted.\n\nBelow is our privacy
+              policy which incorporates these goals:\n\nIf you have questions about
+              deleting or correcting your personal data please email us <%{service_support_email}>\n\nIt
               is %{company_short_name}’s policy to respect your privacy regarding
               any information we may collect while operating our websites.\n\n## Website
               Visitors\nLike most website operators, %{company_short_name} collects
@@ -118,17 +117,17 @@ en:
               its Privacy Policy. If you have a %{service_name} account, you should
               also check your project's dashboard for alerts to these changes.\n\nYour
               continued use of this site after any change in this Privacy Policy will
-              constitute your acceptance of such change.\n\n*Thanks to [Wordpress](http://wordpress.com})
+              constitute your acceptance of such change.\n\n*Thanks to [Wordpress](http://wordpress.com)
               for releasing their Privacy Policy under a [Creative Commons Sharealike
               Licence](http://creativecommons.org/licenses/by-sa/3.0/) which enabled
               us to repurpose this text for our own use.*"
           title: Privacy Policy
         terms_of_service:
           body:
-            markdown: ! "# %{service_name} Terms of Service\n\nWe (the team at [%{company_name}](%{company_url}))
-              run a [%{service_description}](%{service_url}) called %{service_name}
-              and we'd **love** you to use it.\n\n%{service_free_features} are free,
-              and we offer paid accounts for advanced features such %{service_paid_features}.\n\n##
+            markdown: ! "We (the team at [%{company_name}](%{company_url})) run a
+              [%{service_description}](%{service_url}) called %{service_name} and
+              we'd **love** you to use it.\n\n%{service_free_features} are free, and
+              we offer paid accounts for advanced features such %{service_paid_features}.\n\n##
               Terms of Service\n\nThe following terms and conditions govern all use
               of the %{service_name} website and all content, services and products
               available at or through [the Website](%{service_url}).\n\nThe Website
@@ -389,23 +388,23 @@ en:
               bound by, its terms and conditions; %{company_short_name} may assign
               its rights under this Agreement without condition.\n   \n   This Agreement
               will be binding upon and will inure to the benefit of the parties, their
-              successors and permitted assigns.\n\n*Thanks to [Wordpress](http://wordpress.com})
+              successors and permitted assigns.\n\n*Thanks to [Wordpress](http://wordpress.com)
               for releasing their Terms of Service under a [Creative Commons Sharealike
               Licence](http://creativecommons.org/licenses/by-sa/3.0/) which enabled
               us to repurpose this text for our own use.*"
           title: Terms of Service
       interpolations:
         arbitration:
-          language: <Arbitration Language>
-          location: <Arbitration Location>
+          language: Arbitration Language
+          location: Arbitration Location
         company:
-          name: <Company Name>
-          short_name: <Company Short Name>
-          url: <Company URL>
+          name: Company Name
+          short_name: Company Short Name
+          url: Company URL
         governing_law:
-          country: <Governing Law Country>
-          location: <Governing Law Location>
-          venue: <Governing Law Venue>
+          country: Governing Law Country
+          location: Governing Law Location
+          venue: Governing Law Venue
         open_source_licence:
           image_url: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
           link_url: http://creativecommons.org/licenses/by-sa/3.0/
@@ -414,13 +413,13 @@ en:
           short_name: CC BY-SA
           url: http://creativecommons.org/licenses/by-sa/3.0/
         service:
-          description: <Service Description>
+          description: Service Description
           dmca_link_url: <Service DMCA Link URL>
-          free_features: <Service Free Features>
-          name: <Service Name>
-          paid_features: <Service Paid Features>
-          privacy_policy_url: <Service Privacy Policy URL>
+          free_features: Service Free Features
+          name: Service Name
+          paid_features: Service Paid Features
+          privacy_policy_url: Service Privacy Policy URL
           support_email_address: <Service Support Email Address>
-          url: <Service URL>
-          dmca_url: <Service DMCA URL>
-          support_email: <Service Support Email>
+          url: Service URL
+          dmca_url: Service DMCA URL
+          support_email: Service Support Email
