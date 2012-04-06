@@ -28,24 +28,34 @@ You can also get a document's title (for a link title for example), like so :
 
 Interpolations use `I18n`; to customise, simply overwrite any of the following keys :
 
-- vendor.legal_docs.interpolations.arbitration.language
-- vendor.legal_docs.interpolations.arbitration.location
-- vendor.legal_docs.interpolations.company.name
-- vendor.legal_docs.interpolations.company.short_name
-- vendor.legal_docs.interpolations.company.url
-- vendor.legal_docs.interpolations.governing_law.country
-- vendor.legal_docs.interpolations.governing_law.location
-- vendor.legal_docs.interpolations.governing_law.venue
-- vendor.legal_docs.interpolations.open_source_licence.image_url
-- vendor.legal_docs.interpolations.open_source_licence.url
-- vendor.legal_docs.interpolations.open_source_licence.long_name
-- vendor.legal_docs.interpolations.open_source_licence.organisation
-- vendor.legal_docs.interpolations.open_source_licence.short_name
-- vendor.legal_docs.interpolations.service.description
-- vendor.legal_docs.interpolations.service.dmca_url
-- vendor.legal_docs.interpolations.service.free_features
-- vendor.legal_docs.interpolations.service.name
-- vendor.legal_docs.interpolations.service.paid_features
-- vendor.legal_docs.interpolations.service.privacy_policy_url
-- vendor.legal_docs.interpolations.service.support_email
-- vendor.legal_docs.interpolations.service.url
+```
+en:
+  vendor:
+    legal_docs:
+      interpolations:
+        arbitration:
+          language:
+          location:
+        company:
+          name:
+          short_name:
+          url:
+        governing_law:
+          country:
+          location:
+          venue:
+        open_source_licence:
+          image_url:
+          url:
+          long_name:
+          organisation:
+          short_name:
+        service.description:
+          dmca_url:
+          free_features:
+          name:
+          paid_features:
+          privacy_policy_url:
+          support_email:
+          url:
+```
