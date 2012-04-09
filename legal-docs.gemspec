@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{legal-docs}
-  s.version = "0.0.4"
+  s.version = "0.0.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Christopher Dell}]
-  s.date = %q{2012-04-06}
+  s.date = %q{2012-04-09}
   s.description = %q{legal-docs provides a customisable privacy policy and terms of service, backed by I18n that can used in your apps.}
   s.email = %q{chris@tigrish.com}
   s.extra_rdoc_files = [
